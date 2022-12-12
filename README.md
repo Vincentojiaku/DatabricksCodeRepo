@@ -1,6 +1,6 @@
 # DatabricksCodeRepo
 
-This repository contains my personal projects and training materials. It is intended for my own use and is not intended for distribution or sharing with others.
+This repository contains my personal projects and training materials mostly done in Azure Databricks. It is intended for my own use and is not intended for distribution or sharing with others.
 
 ## Contents
 
